@@ -1,5 +1,3 @@
-a.dat
-b.dat
-c.dat
 *.dat
-
+data/
+!data/a.dat
